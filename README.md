@@ -1,2 +1,1 @@
 # HelloIppon
-test2
